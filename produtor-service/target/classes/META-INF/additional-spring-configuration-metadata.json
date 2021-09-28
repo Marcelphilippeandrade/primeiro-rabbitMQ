@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "app.message",
+    "type": "java.lang.String",
+    "description": "A description for 'app.message'"
+  },
+  {
+    "name": "spring.rabbitmq.exchange",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.rabbitmq.exchange'"
+  },
+  {
+    "name": "spring.rabbitmq.queue",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.rabbitmq.queue'"
+  },
+  {
+    "name": "spring.rabbitmq.routingkey",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.rabbitmq.routingkey'"
+  }
+]}

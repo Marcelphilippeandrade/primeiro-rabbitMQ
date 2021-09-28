@@ -1,0 +1,4 @@
+com\marcelphilippe\rabbitmq\service\RabbitMqSender.class
+com\marcelphilippe\rabbitmq\controller\ProdutorController.class
+com\marcelphilippe\rabbitmq\ProdutorServiceApplication.class
+com\marcelphilippe\rabbitmq\model\User.class

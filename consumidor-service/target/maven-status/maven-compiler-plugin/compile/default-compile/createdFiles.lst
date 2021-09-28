@@ -1,0 +1,4 @@
+com\marcelphilippe\rabbitmq\ConsumidorServiceApplication.class
+com\marcelphilippe\rabbitmq\service\RabbitMqReceiver.class
+com\marcelphilippe\rabbitmq\config\RabbitMqConfig.class
+com\marcelphilippe\rabbitmq\model\User.class
